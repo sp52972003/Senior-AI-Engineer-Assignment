@@ -46,5 +46,3 @@ The system correctly:
 
 ---
 
-## Output
-The final trend analysis report is available at:
